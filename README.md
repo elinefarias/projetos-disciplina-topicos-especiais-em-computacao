@@ -49,7 +49,7 @@ Se você tiver alguma sugestão, correção ou nova análise para adicionar, fic
 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre análise de dados, sinta-se à vontade para entrar em contato:
 
 - LinkedIn: [Eline Farias](https://www.linkedin.com/in/eline-farias/)
-- E-mail: eline.farias@example.com
+
 
 ## Instruções de Uso
 
